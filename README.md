@@ -8,6 +8,9 @@ Mis expectativas sobre mi desempeño y trabajo son elevadas. Busco constantement
 La programación es una de mis grandes ambiciones. Aspiro a crear aplicaciones web y móviles útiles e innovadoras, que aporten valor y soluciones creativas. El trabajo colaborativo con otros desarrolladores en proyectos complejos es un objetivo clave. Considero la programación una herramienta poderosa y confío en que mis habilidades y conocimientos contribuirán significativamente al éxito de cada proyecto.
 
 - 🌱 I’m currently learning BACK END Developer
+- 📫 How to reach me:
+  - https://www.linkedin.com/in/DanielAlabarze
+  - https://danielalabarze.github.io/Portfolio-Web/
 
 <!--
 **DanielAlabarze/DanielAlabarze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
